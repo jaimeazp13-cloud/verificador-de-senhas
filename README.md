@@ -78,4 +78,5 @@ verificador-de-senhas/
 
 ## Autor
 
-Feito por **Jaime Augusto**, estudante de Sistemas de Informação.
+Feito por **Jaime Augusto Perez**, estudante de Sistemas de Informação.
+[LinkedIn](https://www.linkedin.com/in/jaime-augusto-perez)
