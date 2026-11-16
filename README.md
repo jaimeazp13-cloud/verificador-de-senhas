@@ -78,5 +78,4 @@ verificador-de-senhas/
 
 ## Autor
 
-Feito por **[Seu Nome]**, estudante de Sistemas de Informação.
-[LinkedIn](https://linkedin.com/in/seu-perfil)
+Feito por **Jaime Augusto**, estudante de Sistemas de Informação.
